@@ -3,7 +3,7 @@
 GitHub Repository: https://github.com/eyen0215/PastDeux
 
 My Contributions:
--> Built the project’s AI email automation system, responsible for generating dynamic reminder messages.\n
+-> Built the project’s AI email automation system, responsible for generating dynamic reminder messages.
 -> Integrated the OpenAI API into the Flask backend, handling request formatting, API authentication, and error handling.
 -> Implemented task-based triggers that automatically generate and send reminder emails when items become overdue.
 -> Engineered efficient prompt templates to ensure context-aware, personalized messages for different user scenarios.
